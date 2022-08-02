@@ -1,0 +1,17 @@
+.hiring {
+    text-align: right;
+    margin-right: 80px;
+    padding-top: 10px;
+}
+.menu {
+    display: flex;
+    height: 125px;
+    padding: 40px;
+    justify-content:space-between;
+    align-items: center;
+    ul {
+        display: flex;
+        gap: 20px;
+        list-style: none;
+    }
+}
